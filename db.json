@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "name": "Mr. Brandon Brown IV",
+      "id": 1
+    },
+    {
+      "name": "Herbert Conroy Jr.",
+      "id": 2
+    },
+    {
+      "name": "Ernest Thompson",
+      "id": 3
+    },
+    {
+      "name": "Ms. Opal Shields",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "title": "Oriental Cotton Gloves",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Practical Frozen Gloves",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Small Metal Ball",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "Generic Plastic Computer",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "title": "Rustic Concrete Soap",
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "title": "Awesome Frozen Towels",
+      "userId": 3,
+      "id": 6
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 1,
+      "id": 1
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 1,
+      "id": 2
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 1,
+      "id": 3
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 3,
+      "id": 4
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 3,
+      "id": 5
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 4,
+      "id": 6
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 4,
+      "id": 7
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 5,
+      "id": 8
+    },
+    {
+      "url": "https://via.placeholder.com/150/f66b97",
+      "albumId": 5,
+      "id": 9
+    }
+  ]
+}
