@@ -1,10 +1,10 @@
 # <i>picturs</i>
 
 1-
-![localhost_5173_ (7)](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/945bd5b4-875c-4d24-ab3d-c429513b07b8)
-
+![localhost_5173_ (3)](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/b784e0a9-f25e-4b14-9064-a47ea5b84e0c)
 2-
-![localhost_5173_posts_page-11](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/0dad78ac-3cfd-405b-82a1-f54c64dbacb7)
-
+![localhost_5173_ (1)](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/a4428e49-5cdb-4692-8f67-abe3f7479b5e)
 3-
-![localhost_5173_pictures](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/76242f4b-ea78-4076-a177-3c5ea04fdc87)
+![localhost_5173_ (5)](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/53d9ceb9-3937-41ca-b696-be1f8899e910)
+4-
+![localhost_5173_](https://github.com/e-Karimi/media-app-Api-RTKQ/assets/28589917/38cd3419-c9a5-4870-bc72-c65628c8695d)
