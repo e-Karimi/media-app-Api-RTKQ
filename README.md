@@ -1,3 +1,7 @@
+This application is a basic project demonstrating RTK Query's capabilities within a React environment. Implement by HTML, Tailwind CSS, React.js. This project focuses on a CRUD API with three levels. Users can be created, each user can have albums, and each album can contain pictures. Additionally, lazy loading has been developed to display results
+
+
+
 # <i>picturs</i>
 
 1-
